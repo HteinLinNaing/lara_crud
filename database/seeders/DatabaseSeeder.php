@@ -26,6 +26,6 @@ class DatabaseSeeder extends Seeder
 //            "title" => "hello hello",
 //            "description" => "hello lorem hello"
 //        ]);
-//        Blog::factory(55)->create();
+        Blog::factory(55)->create();
     }
 }
